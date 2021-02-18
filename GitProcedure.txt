@@ -59,4 +59,7 @@ $ git push -f SaiAkulaGit master
 
 5) git format-patch -1   -> this will generate a patch file with the same name of message. 
 
+[GIT CONFIG]
+git config --global user.email "saiakula997@gmail.com"
+git config --global user.name "saiAkulaGit"
 
