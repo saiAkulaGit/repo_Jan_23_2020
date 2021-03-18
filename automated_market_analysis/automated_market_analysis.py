@@ -84,7 +84,7 @@ class tradeMarket_analysis(object):   # using selenium for browser automation
 
 
 obj = tradeMarket_analysis()
-obj.login_with_credentials("A342556", "Tripura@4")  # entering credentials
+obj.login_with_credentials("user name/Id", "password")  # entering credentials
 while(True):
     try:
         obj.monitor()
